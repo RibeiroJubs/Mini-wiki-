@@ -1,0 +1,45 @@
+img {
+    width: 20%;
+
+}
+
+h1{ 
+    text-align: center;
+    font-size: 35px;
+    font-style: oblique;
+}
+
+p {
+    font-size: 20px;
+    font-style: oblique;
+}
+a {
+    font-size: 22px;
+}
+
+.filmes {
+    background-color: rgba(215, 214, 248, 0.411);
+    font-size: 20px;
+    list-style-position: inside;
+    text-align: center;
+
+    
+}
+
+.musicas {
+    background-color: rgba(247, 245, 132, 0.37);
+    font-size: 20px;
+    list-style-position: inside;
+    text-align: center;
+}
+
+body {
+    background-color: rgba(221, 127, 230, 0.288);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+footer {
+    background-color: rgba(209, 247, 217, 0.61);
+    text-align: center;
+    font-style: oblique;
+}
